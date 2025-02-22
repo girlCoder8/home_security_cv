@@ -1,3 +1,4 @@
+# motion_detector.py
 import cv2
 import numpy as np
 from datetime import datetime

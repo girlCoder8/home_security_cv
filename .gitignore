@@ -1,0 +1,8 @@
+.replit
+uv.lock
+replit.nix
+pyproject.toml
+/.venv
+/.xml
+replit-agent
+

@@ -1,3 +1,5 @@
+# main.py
+
 import cv2
 import logging
 from camera import Camera
